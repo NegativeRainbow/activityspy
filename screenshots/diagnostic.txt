@@ -1,0 +1,8 @@
+--------- beginning of main
+01-16 13:37:54.034  6980  6980 I MainActivity: onCreate event fired
+01-16 13:38:04.154  6980  6980 E MainActivity: We're going down, Captain!
+--------- beginning of system
+01-16 13:46:23.514  9254  9254 I MainActivity: onCreate event fired
+01-16 13:46:30.214  9254  9254 E MainActivity: We're going down, Captain!
+01-16 13:47:28.834  9349  9349 I MainActivity: onCreate event fired
+01-16 13:47:34.064  9349  9349 E MainActivity: We're going down, Captain!
